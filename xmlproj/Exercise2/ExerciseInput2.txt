@@ -1,0 +1,7 @@
+TransactionID	2a0d71fe-1b83-46cc-a55e-779e2b0b7bdd
+SubjectCode	8.2
+ReasonCode	4.2
+ProcessingStart	2021-02-22T13:13:07+02:00
+ProcessingEnd	2021-02-22T13:13:07+02:00
+Status	FAILED
+EID	89000000000000000000000000000002
